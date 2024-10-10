@@ -2,7 +2,7 @@
 
 - install
 ```bash
-npm install vitepress-generate-mindmap
+npm install vitepress-generate
 ```
 
 - use
@@ -19,4 +19,3 @@ export default defineConfig({
   ]
 })
 ```
-      
