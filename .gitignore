@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-/src/source/*
+/src/source/menus.json
